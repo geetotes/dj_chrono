@@ -1,0 +1,3 @@
+I am a tool that can give you a summary of all the hours for a project logged this week and last, or all the hours for a user logged this week and last.{~n}
+
+Available commands you can tell me are `list projects`, and `view {~lb}project_name{~rb}`

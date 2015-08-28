@@ -1,0 +1,25 @@
+{
+  "name": "dj_chrono",
+  "version": "0.0.0",
+  "description": "SlackBot for Connection to Toggl API (And More)",
+  "main": "dj_chrono.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/geetotes/dj_chrono.git"
+  },
+  "author": "Lee Gillentine",
+  "license": "BSD",
+  "bugs": {
+    "url": "https://github.com/geetotes/dj_chrono/issues"
+  },
+  "dependencies": {
+    "slackbotapi": "~1.3.4",
+    "moment": "~2.10.6",
+    "toggl-api": "0.0.3",
+    "string_score": "~0.1.22",
+    "dustfs": "0.0.6"
+  }
+}

@@ -1,0 +1,4 @@
+The {projects_length} available projects are:{~n}
+{#projects}
+{.name}{~n}
+{/projects}

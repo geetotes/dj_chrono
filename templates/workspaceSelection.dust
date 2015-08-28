@@ -1,0 +1,5 @@
+There are {workspace_length} workspaces available. Type the name of your workspace to select it{~n}
+
+{#workspaces}
+{name|s}
+{/workspaces}
